@@ -1,2 +1,3 @@
 *.png
-pictures/
+!Final.png
+pictures/cakes/
