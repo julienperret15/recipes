@@ -1,3 +1,7 @@
 *.png
 !Final.png
-pictures/cakes/
+pictures/*
+!pictures/pie/
+pictures/data/location/gps/*.dat
+
+
